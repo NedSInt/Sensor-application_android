@@ -3,10 +3,10 @@
 Este projeto consiste em um sistema de detecção de movimento utilizando um **Arduino Uno**, um **Ethernet Shield** e um **sensor de movimento SR501**. Os dados capturados pelo sensor são enviados para um servidor **MQTT**. Para receber as notificações, um aplicativo Android foi desenvolvido para alertar sobre possíveis invasões, exibindo a data e a hora da detecção.
 
 **Fotos do hardware**
-![Imagem do Projeto](./projeto/imagensProjeto/hardware.jpeg)
+![Imagem do Projeto](./project/img/hardware.jpeg)
 
 **Fotos do software**
-![Imagem do Projeto](./projeto/imagensProjeto/software.jpeg)
+![Imagem do Projeto](./project/img/software.jpeg)
 
 ## Tecnologias Utilizadas
 - **Arduino Uno**: Microcontrolador utilizado para controlar o sensor de movimento.
